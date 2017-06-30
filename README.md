@@ -132,8 +132,7 @@ saves the model. The following figure shows an example I have collected during
 the training time.
 
 
-Left| Center |
-Right----|--------|-------![left](./img_115.jpg) |
+![left](./img_115.jpg) |
 ![center](./img_139.jpg) | ![right](./img_102090.jpg)
 
 
@@ -217,13 +216,16 @@ some kaggle dataset images then we get an accuracy of 90%.
 
 
 #### Training
+
 <h>
 <p align="center"> <imgsrc="./train.png"height="400"></p>
 </h>
 <h1>
 <p align="center"> <imgsrc="./train1.png"height="400"></p>
 </h1>
+
 #### Test
+
 <h2>
 <p align="center"> <imgsrc="./test.png"height="400"></p>
 </h2>
