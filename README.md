@@ -134,7 +134,7 @@ the training time.
 
 Left| Center |
 Right----|--------|-------![left](./img_115.jpg) |
-![center](./img_134.jpg) | ![right](./img_102090.jpg)
+![center](./img_139.jpg) | ![right](./img_102090.jpg)
 
 
 Collected data are processed before feeding into the deep
@@ -217,9 +217,9 @@ some kaggle dataset images then we get an accuracy of 90%.
 
 
 #### Training 
-Left| Center |Right----|--------|-------![left](./train.png) |![center](./train1.png) 
+Left| Center |----|--------|-------![left](./train.png) |![center](./train1.png) 
 #### Test
-Left| Center |Right----|--------|-------![left](./test.png) |![center](./test1.png) 
+Left| Center |----|--------|-------![left](./test.png) |![center](./test1.png) 
 
 ## Conclusions and Future Directions
 
