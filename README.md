@@ -217,9 +217,9 @@ some kaggle dataset images then we get an accuracy of 90%.
 
 
 #### Training 
-
+Left| Center |Right----|--------|-------![left](./images/train.png) |![center](./images/train1.png) 
 #### Test
-
+Left| Center |Right----|--------|-------![left](./images/test.png) |![center](./images/test1.png) 
 
 ## Conclusions and Future Directions
 
