@@ -74,10 +74,6 @@ we had tested the dataset with some kaggle dataset images then we get an
 accuracy of 90%.
 
 
-Training |
-Validation------------|---------------![training_img](./images/track_one.gif) |
-![validation_img](./images/track_two.gif)
-
 
 ### Dependencies
 
@@ -86,11 +82,14 @@ This project requires **Python 3.5** and the following
 Python libraries installed:
 
 
-- [Keras](https://keras.io/)-
-[NumPy](http://www.numpy.org/)- [SciPy](https://www.scipy.org/)-
-[TensorFlow](http://tensorflow.org)- [Pandas](http://pandas.pydata.org/)-
-[OpenCV](http://opencv.org/)- [Matplotlib](http://matplotlib.org/) (Optional)-
-[Jupyter](http://jupyter.org/) (Optional)
+- [Keras](https://keras.io/)
+- [NumPy](http://www.numpy.org/)
+- [SciPy](https://www.scipy.org/)
+- [TensorFlow](http://tensorflow.org)
+- [Pandas](http://pandas.pydata.org/)
+- [OpenCV](http://opencv.org/)
+- [Matplotlib](http://matplotlib.org/) (Optional)
+- [Jupyter](http://jupyter.org/) (Optional)
 
 
 Run this command at the terminal prompt to install
@@ -134,8 +133,8 @@ the training time.
 
 
 Left| Center |
-Right----|--------|-------![left](./images/left.png) |
-![center](./images/center.png) | ![right](./images/right.png)
+Right----|--------|-------![left](./images/img_115.jpg) |
+![center](./images/img_134.jpg) | ![right](./images/img_102090.jpg)
 
 
 Collected data are processed before feeding into the deep
@@ -156,15 +155,6 @@ Next, we are going to explain our data processing pipeline.
 
 
 ### Data Processing 
-
-
-Pipeline The following figure shows our data preprocessing
-pipeline.
-
-
-<p align="center"> <img
-src="./images/pipeline.png" width="550"></p>
-
 
 In the very first state of the pipeline, we apply random
 shear operation. However, we select images with 0.5 probability for the random
@@ -226,13 +216,9 @@ so thats why the accuracy is around 13% but when we had tested the dataset with
 some kaggle dataset images then we get an accuracy of 90%.
 
 
-#### Training Track[![training_track](https://img.youtube.com/vi/nSKA_SbiXYI/0.jpg)](https://www.youtube.com/watch?v=nSKA_SbiXYI)
-
+#### Training 
 
 #### Test
-
-
-Track[![validation_track](https://img.youtube.com/vi/ufoyhOf5RFw/0.jpg)](https://www.youtube.com/watch?v=ufoyhOf5RFw)
 
 
 ## Conclusions and Future Directions
@@ -245,16 +231,6 @@ Kaggle’s dataset.It didn't perform as expected when we test the model using ou
 own Dataset(we have to insert images from Kaggle’s Dataset because we didn’t
 use flipping , and the pictures are not flipped while testing) . 
 
-
- 
-
-
- 
-
-
- 
-
-
 When it comes to extensions and future directions, I would
 like to highlight followings.
 
@@ -264,26 +240,3 @@ the test dataset.* Experiment with other possible data augmentation
 techniques.* When we are driving a car, our actions such as changing steering
 angles and applying brakes are not just based on instantaneous driving
 decisions. 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
- 
-
-
