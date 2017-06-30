@@ -216,10 +216,18 @@ so thats why the accuracy is around 13% but when we had tested the dataset with
 some kaggle dataset images then we get an accuracy of 90%.
 
 
-#### Training 
-Left| Center |----|--------|-------![left](./train.png) |![center](./train1.png) 
+#### Training
+
+<p align="center"> <imgsrc="./train.png"height="400"></p>
+
+<p align="center"> <imgsrc="./train1.png"height="400"></p>
+
 #### Test
-Left| Center |----|--------|-------![left](./test.png) |![center](./test1.png) 
+
+<p align="center"> <imgsrc="./test.png"height="400"></p>
+
+<p align="center"> <imgsrc="./test1.png"height="400"></p>
+
 
 ## Conclusions and Future Directions
 
