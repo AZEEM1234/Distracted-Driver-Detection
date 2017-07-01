@@ -217,21 +217,17 @@ some kaggle dataset images then we get an accuracy of 90%.
 
 #### Training
 
-<h>
-<p align="center"> <imgsrc="./train.PNG"height="400"></p>
-</h>
-<h1>
-<p align="center"> <imgsrc="./train1.PNG"height="400"></p>
-</h1>
+
+
+![left](./train.PNG) |
+![center](./train1.PNG) 
 
 #### Test
 
-<h2>
-<p align="center"> <imgsrc="./test.PNG"height="400"></p>
-</h2>
-<h3>
-<p align="center"> <imgsrc="./test1.PNG"height="400"></p>
-</h3>
+
+
+![left](./test.PNG) |
+![center](./test1.PNG) 
 
 ## Conclusions and Future Directions
 
