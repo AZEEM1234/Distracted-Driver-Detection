@@ -182,7 +182,7 @@ architecture.
 
 We are using MaxPooling layers just after each  Convolutional Layer in order to cut down
 training time. For more details about our network architecture please refer
-following figure.
+following figure(only just to describe the basics of the Architecture).
 
 
 <p align="center"> <img
