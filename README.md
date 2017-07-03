@@ -129,8 +129,9 @@ saves the model. The following figure shows an example I have collected during
 the training time.
 
 
-![left](./img_115.jpg) |
-![center](./img_139.jpg) | ![right](./img_102090.jpg)
+![left](./img_115.jpg) 
+![center](./img_139.jpg) 
+![right](./img_102090.jpg)
 
 
 Collected data are processed before feeding into the deep
@@ -224,7 +225,7 @@ with some kaggle dataset images then we get an accuracy of 90%.
 
 
 
-![left](./train.PNG)  |
+![left](./train.PNG)  
 ![center](./train1.PNG) 
 
 #### Test
@@ -232,11 +233,9 @@ with some kaggle dataset images then we get an accuracy of 90%.
 
 
 ![left](./test.PNG) 
-
 ### Own dataset accuracy 
 
 ![center](./test1.PNG) 
-
 ## Combined dataset contining our own dataset and trained dataset
 
 ## Conclusions and Future Directions
