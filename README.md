@@ -5,13 +5,6 @@
 
  
 
-
- 
-
-
- 
-
-
 ### Overview
 
 
@@ -233,10 +226,10 @@ with some kaggle dataset images then we get an accuracy of 90%.
 
 
 ![left](./test.PNG) 
-### Own dataset accuracy 
+Own dataset accuracy 
 
 ![center](./test1.PNG) 
-## Combined dataset containing  own dataset and trained dataset
+Combined dataset containing  own dataset and trained dataset
 
 ## Conclusions and Future Directions
 
